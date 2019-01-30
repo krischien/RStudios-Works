@@ -28,5 +28,3 @@ geom_bar(width = 0.5) +
   xlab("Genus") +
   ylab("Total COunt") +
   labs(fill="isPoisonous")
-
-geom_
